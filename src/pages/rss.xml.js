@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 export async function GET(context) {
   const blog = await getCollection('blog');
   return rss({
-    title: 'Rohit’s Blog',
+    title: 'Ojas’s Blog',
     description: 'Just Blogs by human with bots',
     site: context.site,
     items: blog.map((post) => ({

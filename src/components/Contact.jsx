@@ -24,7 +24,7 @@ export default function Contact() {
     });
     axios.defaults.headers.post["Content-Type"] = "application/json";
     axios
-      .post("https://formsubmit.co/ajax/technicalrohit06@gmail.com", {
+      .post("https://formsubmit.co/ajax/varsojas18@gmail.com", {
         name: name,
         message: message,
         email: email,
@@ -88,7 +88,7 @@ export default function Contact() {
               </div>
               <div>
                 <label className="text-primary font-semibold">
-                  Email Adress
+                  Email Address
                   <input
                     onChange={(e) => setEmail(e.target.value)}
                     required
@@ -117,7 +117,7 @@ export default function Contact() {
                 onClick={Check}
                 type="submit"
                 value="submit :)"
-                className="px-4 py-2 rounded-md bg-white font-bold"
+                className="px-4 py-2 rounded-md bg-white font-bold cursor-pointer"
               />
             </div>
           </form>

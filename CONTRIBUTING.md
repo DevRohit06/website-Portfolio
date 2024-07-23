@@ -59,7 +59,7 @@ By contributing to this project, you agree that your contributions will be licen
 
 ## Contact
 
-If you have questions, concerns, or need assistance during the contribution process, please feel free to contact us at [technicalrohit06@gmail.com].
+If you have questions, concerns, or need assistance during the contribution process, please feel free to contact us at [varsojas18@gmail.com].
 
 We appreciate your contributions to [Your Project Name] and look forward to collaborating with you. Thank you for helping us make this project better!
 

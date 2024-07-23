@@ -94,7 +94,7 @@ export default function IndexNav() {
                   >
                     Contact
                   </a>
-                  <a>Download CV</a>
+                  {/* <a>Download CV</a> */}
                 </ul>
               </div>
             </div>
